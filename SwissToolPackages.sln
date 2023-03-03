@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwissToolPackages", "src\SwissToolPackages.csproj", "{F813E4FF-56E3-4529-86E8-77BF4FD8CFE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F813E4FF-56E3-4529-86E8-77BF4FD8CFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F813E4FF-56E3-4529-86E8-77BF4FD8CFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F813E4FF-56E3-4529-86E8-77BF4FD8CFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F813E4FF-56E3-4529-86E8-77BF4FD8CFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {018A2A64-9056-4108-A66D-1205F8D6447A}
+	EndGlobalSection
+EndGlobal
